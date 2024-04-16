@@ -1,0 +1,38 @@
+[
+
+    {
+        "id": 1,
+        "name": "Otra vez tú",
+        "author": "Alice Kellen",
+        "price": 300,
+        "img": "https://www.planetadelibros.com.mx/usuaris/libros/fotos/343/m_libros/342369_portada_otra-vez-tu_alice-kellen_202104221544.jpg",
+        "quanty":1
+        
+    },
+    {
+        "id": 2,
+        "name": "Tal vez tú",
+        "author": "Alice Kellen",
+        "price": 290,
+        "img": "https://www.planetadelibros.com.mx/usuaris/libros/fotos/343/m_libros/portada_tal-vez-tu_alice-kellen_202110041703.jpg",
+        "quanty":1
+    },
+    {
+        "id": 3,
+        "name": "El principito",
+        "author": "Antoine",
+        "price": 200,
+        "img": "https://m.media-amazon.com/images/I/41xNDEf33yL._SL500_.jpg",
+        "quanty":1
+    },
+    {
+        "id": 4,
+        "name": "El resplandor",
+        "author": "Stephen King",
+        "price": 340,
+        "img": "https://e00-elmundo.uecdn.es/elmundo/imagenes/2011/09/29/cultura/1317286638_extras_ladillos_1_0.jpg",
+        "quanty":1
+    }
+
+
+]
